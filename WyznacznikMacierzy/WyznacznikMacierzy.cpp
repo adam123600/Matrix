@@ -178,6 +178,8 @@ int main(int argc, char** argv)
 	fclose( plik );
 	plik = NULL;
 
+
+	system("pause");
 	return 0;
 }
 
